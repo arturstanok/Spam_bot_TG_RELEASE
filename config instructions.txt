@@ -1,0 +1,9 @@
+{ // CHANGE THIS DATA ON YOUR PERSONAL
+  "api_key": "sk-A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R8S9T0U1V2W3X4", // API KEY FROM OPENAIAPI
+  "api_id": 84370215,                             // API ID FROM https://my.telegram.org/apps
+  "api_hash": "c4a2d19f3e8b6c150f0b1d7e2a85c3e9", // API HASH FROM https://my.telegram.org/apps
+  "chat_id": -1014499840157,                      // ID OF CHAT FROM https://t.me/username_to_id_bot
+  "channel_id": 1944505646,                       // ID OF CHAT FROM https://t.me/username_to_id_bot but without -100 in start
+
+  "static_message": "GEM"                         // STATIC MESSAGE FOR start_spam_without_chatgpt.py
+}

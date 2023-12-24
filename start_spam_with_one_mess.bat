@@ -1,0 +1,2 @@
+py spam_with_one_mess.py
+pause
